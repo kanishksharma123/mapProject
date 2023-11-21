@@ -1,6 +1,6 @@
 
 
-![Alt text](../mapProject/record.gif)
+![Alt text](https://github.com/kanishksharma123/mapProject/blob/6e33572bf64f8868387f8517974e51fe57866261/record.gif)
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
