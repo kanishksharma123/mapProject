@@ -1,5 +1,5 @@
 
-This  is video recording of app : https://www.loom.com/share/71dc88c7d0b44da29e11bc7f66b26738?sid=3bcc87f7-e20f-4bb3-a8a1-8da110237b81
+
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
