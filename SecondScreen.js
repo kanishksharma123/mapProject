@@ -18,6 +18,8 @@ export default function SecondScreen() {
   }, []);
 
   const requestLocationPermission = async () => {
+
+    console.log('requestLocationPermission');
     try {
       const status = await check(PERMISSIONS.ANDROID.ACCESS_FINE_LOCATION);
       console.log('status',status);
@@ -37,6 +39,7 @@ export default function SecondScreen() {
   };
 
   const getCurrentLocation = () => {
+    console.log("getCurrentLocation");
     Geolocation.getCurrentPosition(
       (position) => {
         const { latitude, longitude } = position.coords;
